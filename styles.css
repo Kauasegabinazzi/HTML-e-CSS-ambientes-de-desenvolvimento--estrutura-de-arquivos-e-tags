@@ -1,36 +1,8 @@
 body{
     background-color: black;
-    color: white;
+    color: #F6F6F6;
 }
 
-a {
-    color: DodgerBlue;
-
-}
-footer {
-    background-color: gray;
-    color: white;
-
-}
-p {
-
-    color: darkgray;
-
-}
-
-header {
-    background-color: lightblue;
-    color: white;
-
-}
-
-button {
-    background-color: green;
-    color: white;
-
-}
-
-h1 {
-    color: #333333;
-
+strong{
+    color: #22D4FD;
 }
