@@ -1,17 +1,10 @@
 body {
-    background-color: #FF5733; /* Laranja */
-    color: #00FF00; /* Verde */
+    background-color: #000000;
+    color: #F6F6F6;
 }
-strong {
+
+.title {
     color: #22D4FD;
     border: 1px solid #22D4FD;
     padding: 10px;
-}
-
-h1 {
-    color: #E64947;
-}
-
-p {
-    color: #5942EB;
 }
