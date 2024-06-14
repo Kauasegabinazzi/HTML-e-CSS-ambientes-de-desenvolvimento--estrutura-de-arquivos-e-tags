@@ -1,6 +1,8 @@
 body {
+    height: 100vh;
     background-color: #000000;
     color: #F6F6F6;
+    box-sizing: border-box;
 }
 
 .title {
@@ -9,7 +11,7 @@ body {
     padding: 10px;
 }
 
-*{
+* {
     margin: 0;
     padding: 0;
 }
