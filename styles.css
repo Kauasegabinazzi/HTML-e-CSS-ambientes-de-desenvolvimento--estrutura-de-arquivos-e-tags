@@ -22,3 +22,15 @@ body {
     align-items: center;
     margin: 8%;
 }
+
+.apresentacao{
+    width: 615px;
+}
+
+.titulo{
+    font-size: 36px;
+}
+
+.texto{
+    font-size:24px;
+}
