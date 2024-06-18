@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:ital,wght@400,600&display=swap');
 
 body {
     height: 100vh;
@@ -9,7 +9,7 @@ body {
 
 .title {
     color: #22D4FD;
-    border: 1px solid #22D4FD;
+    /* border: 1px solid #22D4FD; */
     padding: 10px;
 }
 
@@ -42,4 +42,17 @@ body {
 .links{
     display: flex;
     justify-content: space-between;
+}
+
+.links_links{
+    background-color: #22D4FD;
+    width: 280px;
+    text-align: center;
+    border-radius: 16px;
+    font-size: 24px;
+    padding: 21.5px 0;
+    text-decoration: none;
+    color: #000000;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600px;
 }
