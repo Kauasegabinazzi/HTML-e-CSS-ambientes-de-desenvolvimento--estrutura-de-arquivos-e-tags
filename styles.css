@@ -22,11 +22,14 @@ body {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    margin: 8%;
+    margin: 10% 15%;
 }
 
 .apresentacao{
     width: 615px;
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
 }
 
 .titulo{
